@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/FreddyJD/open-source-raffle#readme",
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "prisma-client-lib": "^1.26.4"
   }
 }
